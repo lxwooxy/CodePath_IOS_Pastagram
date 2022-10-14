@@ -25,8 +25,11 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+###Signing up, Posting, and pull to refresh
 <img src='https://media.giphy.com/media/xXptNldtFtmd2GaCap/giphy.gif' title='Signing up, Posting, and pull to refresh' width='' alt='Video Walkthrough' />
 
+###Signing in and out
 <img src='https://media.giphy.com/media/8aUuqBApOX7IvEULH6/giphy.gif' title='Signing in and out' width='' alt='Video Walkthrough' />
 
+###Viewing past 20 posts
 <img src='https://media.giphy.com/media/n51YqTxBVIt3PEdeNc/giphy.gif' title='Viewing past 20 posts' width='' alt='Video Walkthrough' />
