@@ -22,7 +22,13 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/ppmd4PARyLVfSgfzgU/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Staying Logged in and Logging out:
+
+<img src='https://media.giphy.com/media/8V8T425hUvgywoexUU/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Viewing and adding comments:
+
+<img src='https://media.giphy.com/media/4xQtMFX45rH1bj5kO0/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Parstagram - Part I
 
